@@ -6,7 +6,7 @@ This repository contains Employee salary prediction machine learning model devel
 ## The model is developed in google colab
 
 
-## The Objective fro building his model
+## The Objective for building his model
 
 * The objective is to develop an Employee Salary Prediction Model and evaluate various supervised machine learning models to accurately predict employee salaries based on a comprehensive set of relevant attributes. The aim is to identify the most effective algorithm that yields the highest predictive accuracy and provides actionable insights into the factors influencing employee compensation within the organization.
 
