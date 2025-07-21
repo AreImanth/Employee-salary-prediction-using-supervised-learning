@@ -53,4 +53,5 @@ This repository contains Employee salary prediction machine learning model devel
 ### Note:
 1. The jupitor file can be downloaded and directly deployed in the Google colab or any susequent platforms for testing.
 2. For more information about procedure or results, please do check the presentation.
+3. The authtoken for the streamlit app is taken from ngrok [if you are developing model in your local machine's jupitar notebook then you need not to worry about the ngrok authtoken, you can skip this part].
 
